@@ -12,7 +12,7 @@ for i in range(0, 1):
              str(datetime.today().strftime('%Y_%m_%d-%H_%M_%S')) + str(i) +
              ".log", "w")
     log_count = rand.randint(1,100)
-    for j in range(0, 100):
+    for j in range(0, 1):
         if j != 0:
             f.write("\n")
         f.write(str(datetime.today().strftime('%Y-%m-%d %H:%M:%S')) + " " + str(j) + " " +

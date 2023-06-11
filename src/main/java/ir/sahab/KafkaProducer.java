@@ -21,7 +21,7 @@ public class KafkaProducer {
         // Send a message
         kafkaProducer.send(new ProducerRecord<>("TOPIC", null, logModel));
         kafkaProducer.flush();
-        kafkaProducer.close();
+        //kafkaProducer.close();
         System.out.println("Hello world!");
         return true;
     }
