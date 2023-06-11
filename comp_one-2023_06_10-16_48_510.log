@@ -1,0 +1,10 @@
+2023-06-10 16:48:51 0 thread_01 WARNING pakage.name.ClassName - what a beautiful morning!7406
+2023-06-10 16:48:51 1 thread_01 FATAL pakage.name.ClassName - what a beautiful morning!2407
+2023-06-10 16:48:51 2 thread_03 INFO pakage.name.ClassName - what a beautiful morning!2437
+2023-06-10 16:48:51 3 thread_03 INFO pakage.name.ClassName - what a beautiful morning!3992
+2023-06-10 16:48:51 4 thread_02 FATAL pakage.name.ClassName - what a beautiful morning!7891
+2023-06-10 16:48:51 5 thread_01 DEBUG pakage.name.ClassName - what a beautiful morning!2965
+2023-06-10 16:48:51 6 thread_02 INFO pakage.name.ClassName - what a beautiful morning!5003
+2023-06-10 16:48:51 7 thread_03 INFO pakage.name.ClassName - what a beautiful morning!5640
+2023-06-10 16:48:51 8 thread_01 WARNING pakage.name.ClassName - what a beautiful morning!4489
+2023-06-10 16:48:51 9 thread_03 FATAL pakage.name.ClassName - what a beautiful morning!7963
